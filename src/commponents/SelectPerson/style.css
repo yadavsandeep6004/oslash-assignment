@@ -1,0 +1,13 @@
+.SelectPerson {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 16px 0;
+}
+.SelectPerson img {
+  margin-right: 8px;
+}
+.SelectPerson-avatar {
+  display: flex;
+  align-items: center;
+}
